@@ -1,6 +1,6 @@
 # DL-Playground
 
-Welcome to the **DL-Playground**, a collection of experimental deep learning projects conducted in Kaggle Notebooks. These projects explore unique ideas and insights to better understand deep learning concepts and their practical implications. Each project is linked to its respective Kaggle Notebook for easy access and replication.
+Welcome to the **DL-Playground**, a collection of experimental deep learning ideas!
 
 ## Projects
 
