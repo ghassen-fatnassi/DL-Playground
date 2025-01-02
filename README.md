@@ -9,7 +9,7 @@ Welcome to the **DL-Playground**, a collection of experimental deep learning ide
    - **Models Explored**: RNN, CNN, MLP, Transformer.
    - **Kaggle Notebook**: [Batch Size x Inference Time](https://www.kaggle.com/code/musclnbrains/batch-size-x-inference-time)
 
-2. **Dropout as a Measure of Model Overfitting**
+2. **Dropout as a Metric of Model Overfitting**
    - **Objective**: Experiment to show that if a model’s performance can withstand dropout during evaluation, it is proportionally more amenable to pruning or distillation.
    - **Kaggle Notebook**: [Dropout & Overfitting](https://www.kaggle.com/code/musclnbrains/dropout-as-a-way-to-measure-model-overfitting)
 
