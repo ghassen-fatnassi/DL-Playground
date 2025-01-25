@@ -20,4 +20,4 @@ Welcome to the **DL-Playground**, a collection of experimental deep learning ide
    - **Objective**: Demonstrate Principal Component Analysis (PCA) for dimensionality reduction and binary classification of face vs. no-face images using a Kaggle face dataset and CIFAR-10.  
    - **Kaggle Notebook**: [PCA EigenFaces](https://www.kaggle.com/code/musclnbrains/pca-eigenfaces)
 
-Feel free to explore, experiment, and share feedback on these mini ideas that catch me at midnight!
+Feel free to explore, experiment, and share feedback on these mini ideas!
