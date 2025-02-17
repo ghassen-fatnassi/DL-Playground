@@ -19,5 +19,8 @@ Welcome to the **DL-Playground**, a collection of experimental deep learning ide
 4. **PCA for Face Classification**  
    - **Objective**: Demonstrate Principal Component Analysis (PCA) for dimensionality reduction and binary classification of face vs. no-face images using a Kaggle face dataset and CIFAR-10.  
    - **Kaggle Notebook**: [PCA EigenFaces](https://www.kaggle.com/code/musclnbrains/pca-eigenfaces)
+5. **GODS4.0 5th place submission**
+   - **Objective**: This 12 hour Zindi competition focuses on classifying mental health data ,our team used  a bunch of techniques , my contribution was the Longformer-based model with techniques like resampling and mixed precision training, we managed to make it run distributed on kaggle 2T4 gpu's tp get it to work before submission time
+   - **Kaggle Notebook**: [GODS4.0](https://www.kaggle.com/code/musclnbrains/gods4-0)
 
 Feel free to explore, experiment, and share feedback on these mini ideas!
